@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "description": "Discover a revolutionary marketplace app for buying and selling items effortlessly. Explore a wide range of products, connect with trusted sellers, and enjoy a seamless shopping experience. Find what you need quickly with advanced search options and personalized preferences.",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
